@@ -8,7 +8,13 @@ FSBAuth Platform Requirements:
 * ARC
 
 ## Installation
-Include `pod 'FSBAuth','~>0.0.2'` in the Podfile.
+
+#### Cocoapods
+* Add local copy of [FSBTech podspecs repo](https://github.com/FSBTech/fsb-public-specs)
+* Include `pod 'FSBAuth','~>0.0.2'` in the project's 'Podfile'
+* Run `pod install`
+
+#### Manual
 
 ## Usage
 ``` objectivec
