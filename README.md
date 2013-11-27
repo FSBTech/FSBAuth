@@ -10,9 +10,9 @@ FSBAuth Platform Requirements:
 ## Installation
 
 #### Cocoapods
-* Add local copy of [FSBTech podspecs repo](https://github.com/FSBTech/fsb-public-specs)
-* Include `pod 'FSBAuth','~>0.0.2'` in the project's 'Podfile'
-* Run `pod install`
+1. Add local copy of [FSBTech podspecs repo](https://github.com/FSBTech/fsb-public-specs)
+2. Include `pod 'FSBAuth','~>0.0.2'` in the project's 'Podfile'
+3. Run `pod install`
 
 #### Manual
 
