@@ -1,8 +1,5 @@
 Authentication library
 
-## Installation
-Include `pod 'FSBAuth','~>0.0.2'` in the Podfile.
-
 ## Requirements
 
 FSBAuth Platform Requirements:
@@ -10,8 +7,10 @@ FSBAuth Platform Requirements:
 * iOS6.x or newer
 * ARC
 
+## Installation
+Include `pod 'FSBAuth','~>0.0.2'` in the Podfile.
+
 ## Usage
-Write something good
 ``` objectivec
 [[FSBAuth shared] login:nil];
 ```
